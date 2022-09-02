@@ -1,1 +1,1 @@
-this command Writes a script that prints the absolute path name of the current working directory.
+in this repo you'll find the basic commands of shell
